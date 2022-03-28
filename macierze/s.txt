@@ -1,0 +1,59 @@
+ 
+
+Algorytm 1 
+
+α. a>=0 i b>=0 
+
+¥. x+y=a+b ,  y>=0, x=0 
+
+Β. x+y=a+b , y>=0, x=0 
+
+F(n)= 3+2a 
+
+Algorytm 2 
+
+α. a>=0 b>=0 
+
+¥. c<=a*b , x,y>=0 
+
+β. c=a*b x=0 c>=0 
+
+F(n)= 4+2a 
+
+Algorym 1 
+
+α. a>=0 b>=0 
+
+¥ c<=a*b  x>=0 , y>=0 
+
+β.  c<=a*b c>=0  x=0 
+
+ 
+
+Algorytm 1 
+
+α. a>=0 b>=0 
+
+¥. c<=b^a , x>=0, y>=0 
+
+β. c<=b^a, x=0, c>=0 
+
+F(n)=4+2a 
+
+Algorytm 1 
+
+α. a>=0, b>=0 
+
+¥. c<=b*a  x>=0, y>=0 
+
+β. c<=b*a, c>=0, x=0 
+
+6.  Algorytm 6 
+
+α. a[]>=0 
+
+¥. y<=n , i<=n, y>=0 
+
+β. y<=n , y>=0 
+
+F(n)=3+2n 
